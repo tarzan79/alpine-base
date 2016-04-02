@@ -1,2 +1,1 @@
-FROM scratch
-ADD rootfs.tar.gz /
+FROM scaleway/alpine:latest
